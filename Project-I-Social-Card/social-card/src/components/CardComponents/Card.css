@@ -1,1 +1,18 @@
 /* All styles for your Card Components live here */
+.CardContainer {
+    padding: 0 0 0 5rem;
+}
+
+.CardContent  h5 p span {
+    margin: 0 0 0.5rem 0;
+}
+
+
+.CardContent span {
+    color: gray;
+}
+
+.CardBanner img {
+    height: 300px;
+    width: 100%;
+}
