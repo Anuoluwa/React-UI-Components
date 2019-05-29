@@ -1,1 +1,35 @@
 /* All styles for your header Components live here */
+
+.HeaderContainer{
+display: flex;
+box-sizing: border-box;
+}
+
+
+.ImageThumbnail img {
+    height: 80px;
+    margin: 0.8rem 0 0 0;
+}
+
+.header-content{
+    width: 90%;
+    padding: 0 0 0 0.5rem;
+}
+
+li{
+    display: inline-block;
+    padding-left: .4rem;
+}
+
+.HeaderTitle {
+    font-weight: 700;
+}
+
+.HeaderTitle  span {
+}
+
+.span {
+    color: gray;
+    font-weight: 500;
+    padding: 0 0 0 0.5rem;
+}
